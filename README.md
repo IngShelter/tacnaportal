@@ -1,4 +1,4 @@
-# tacnaportal
+# TACNA Portal
 TACNA Portal (Laravel 5.1)
 This project will contain the modules/sections for:
 Warehouse - Inventory, WIP, Scrap and Shipment control.
